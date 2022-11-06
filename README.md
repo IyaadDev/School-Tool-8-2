@@ -15,7 +15,7 @@ Ronaldo or Messi?
  - Go to releases
  - Select the latest release
  - Download the ZIP source code file
- - Open it in chrome / safari
+ - Open it in Chrome / Safari
  - Done!
  
  ## Releases
