@@ -31,3 +31,36 @@ If you find/encounter a bug, please report it in the errors section so that we c
 
 - Do NOT abuse errors in the system
 - Do not attempt to fix the bug directly to the main branch, open a pull request and wait for it to be approved by a code owner.
+
+# License
+By using this repo in any way, you agree to the the following T&C in chapter title 'MIT License'
+
+## MIT License
+
+Copyright (c) 2022 IyaadDev
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## What's Changed in v2.1
+* Updated to v2.1 by @IyaadDev in https://github.com/IyaadDev/School-Tool-8-2/pull/2
+
+## New Contributors in v2.1
+* @IyaadDev made their first contribution in https://github.com/IyaadDev/School-Tool-8-2/pull/2
+
+**Full Changelog**: https://github.com/IyaadDev/School-Tool-8-2/commits/v2.1
